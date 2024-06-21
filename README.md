@@ -7,6 +7,7 @@ Este código define uma classe SimuladorDeDados que simula a jogada de um dado d
 O código lê os preços dos produtos de uma farmácia, aumenta cada preço em 12%, arredonda o resultado para duas casas decimais, e imprime o novo preço ajustado. O processo continua até que o usuário insira 0 como preço, momento em que o programa encerra a execução.
 
 ## 3. Gerador de senhas aleatórias:
+O código define uma classe GeradorDeSenhas que gera uma senha numérica aleatória com um comprimento entre 5 e 10 dígitos. O método gerarSenhaAleatoria usa a classe Random para determinar o número de dígitos e para gerar cada dígito da senha. A senha é construída como uma String e retornada. O método main cria uma instância da classe, gera uma senha e a imprime.
 
 ## 4. Inversor de frases: 
 
