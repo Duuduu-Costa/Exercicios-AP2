@@ -9,7 +9,8 @@ O código lê os preços dos produtos de uma farmácia, aumenta cada preço em 1
 ## 3. Gerador de senhas aleatórias:
 O código define uma classe GeradorDeSenhas que gera uma senha numérica aleatória com um comprimento entre 5 e 10 dígitos. O método gerarSenhaAleatoria usa a classe Random para determinar o número de dígitos e para gerar cada dígito da senha. A senha é construída como uma String e retornada. O método main cria uma instância da classe, gera uma senha e a imprime.
 
-## 4. Inversor de frases: 
+## 4. Inversor de frases:
+O código define uma classe InversorDeFrases que recebe uma frase através do seu construtor, remove todos os espaços em branco da frase, inverte a string resultante e retorna a versão invertida. No método main, uma instância da classe é criada com uma frase de exemplo, e a frase invertida é exibida no console.
 
 ## 5. Detector de conteúdo impróprio: 
 
