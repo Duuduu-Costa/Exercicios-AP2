@@ -22,3 +22,4 @@ Este código mostra como criar uma classe simples em Java que manipula strings p
 O código realiza o cálculo da potência de um número utilizando o comando Math.pow. Nele, a base é definida como 3.0 e o expoente como 4.0. Utilizando esses valores, a função Math.pow calcula a base elevada ao expoente especificado e armazena o resultado em uma variável chamada resultado. Em seguida, o programa imprime o resultado no formato "base elevado a expoente é igual a resultado", onde o valor da base, do expoente e o resultado calculado são exibidos. Por exemplo, para os valores fornecidos, o resultado impresso será "3.0 elevado a 4.0 é igual a 81.0".
 
 ## 8. Conversor de radianos para graus:
+Neste código, a variável radianos contém o valor em radianos que você deseja converter. Em seguida, Math.toDegrees(radianos) converte esse valor para graus. O resultado é armazenado na variável graus, que é impressa na tela.
