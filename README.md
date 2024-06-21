@@ -12,7 +12,8 @@ O código define uma classe GeradorDeSenhas que gera uma senha numérica aleató
 ## 4. Inversor de frases:
 O código define uma classe InversorDeFrases que recebe uma frase através do seu construtor, remove todos os espaços em branco da frase, inverte a string resultante e retorna a versão invertida. No método main, uma instância da classe é criada com uma frase de exemplo, e a frase invertida é exibida no console.
 
-## 5. Detector de conteúdo impróprio: 
+## 5. Detector de conteúdo impróprio:
+O código define uma classe DetectorConteudoImproprio que possui um método verificarConteudo para verificar se uma frase contém as palavras "sexo" ou "sexual". Ele imprime "Conteúdo impróprio" se encontrar uma dessas palavras na frase, ou "Conteúdo liberado" caso contrário. O método main testa o funcionamento chamando verificarConteudo com três frases diferentes.
 
 ## 6. Manipulação de substrings:
 
