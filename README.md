@@ -16,6 +16,7 @@ O código define uma classe InversorDeFrases que recebe uma frase através do se
 O código define uma classe DetectorConteudoImproprio que possui um método verificarConteudo para verificar se uma frase contém as palavras "sexo" ou "sexual". Ele imprime "Conteúdo impróprio" se encontrar uma dessas palavras na frase, ou "Conteúdo liberado" caso contrário. O método main testa o funcionamento chamando verificarConteudo com três frases diferentes.
 
 ## 6. Manipulação de substrings:
+Este código mostra como criar uma classe simples em Java que manipula strings para retornar uma substring sem o último caractere.
 
 ## 7. Calculadora de potência:
 
